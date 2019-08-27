@@ -10,7 +10,7 @@ error_reporting(E_ALL);
 */
 //added to gitignore??
 include('fx/conn.php');
-$base_url = 'http://autoformsandsupplies.com/haj420'; 
+$base_url = 'URL HERE!';
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
@@ -165,9 +165,8 @@ $track_code = md5(rand());
                     <br>
     ';
    $message .= '
-                    Thank you,<br>McKeon Distributors<br>
-                    <a href="tel:800-525-1861">800-525-1861</a><p>
-                    <img 
+                    Thank you
+                    <p>
                     </body>
                     </html>
     ';
