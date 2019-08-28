@@ -15,7 +15,8 @@ The email tracking system (name to change) is a simple PHP application that trac
 
 ### Part 2:  SendMail setup
 1. Change the SMTP settings in **functions.php** to those of your SMTP server. 
-   * **GMAIL Settings Example**
+   
+   **GMAIL Settings Example**
    * Outgoing Mail (SMTP) Server: smtp.gmail.com
    * Use Authentication: Yes
    * Use Secure Connection: Yes (this can be TLS or SSL depending on your mail client)
