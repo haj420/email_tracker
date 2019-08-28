@@ -30,7 +30,7 @@ The email tracking system (name to change) is a simple PHP application that trac
 ## License 
 MIT License
 
-Copyright (c) [2019] [William Kroes]
+Copyright (c) 2019 William Kroes
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
