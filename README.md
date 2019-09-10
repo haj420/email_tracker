@@ -11,7 +11,7 @@ The email tracking system (name to change) is a simple PHP application that trac
 2. Make a copy of the **example-conn.php** file and rename it **conn.php**. 
 3. Change the connection information for your server. 
 4. Navigate to the location of the folder the files are extracted to. 
-5. The database will set itself up upon loading the page. 
+5. The database has portion has been moved and now is stored at ADVERNOLOGY's server and is contacted via an AJAX request. 
 
 ### Part 2:  SendMail setup
 1. Change the SMTP settings in **functions.php** to those of your SMTP server. 
